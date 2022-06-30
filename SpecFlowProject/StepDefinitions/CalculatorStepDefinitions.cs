@@ -14,6 +14,8 @@ namespace SpecFlowProject.StepDefinitions
             // additional string/Table parameters can be defined on the step definition
             // method. 
 
+            var readingValue = script1.Value;
+
             throw new PendingStepException();
         }
 
