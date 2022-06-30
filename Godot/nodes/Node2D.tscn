@@ -1,0 +1,10 @@
+[gd_scene format=2]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="Label" type="Label" parent="."]
+margin_left = 49.0
+margin_top = 42.0
+margin_right = 111.0
+margin_bottom = 85.0
+text = "Label with script"
