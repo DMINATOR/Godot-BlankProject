@@ -1,6 +1,6 @@
 # https://github.com/github/gitignore/blob/main/Godot.gitignore
 # Godot-specific ignores
-.import/
+/.import/
 export.cfg
 export_presets.cfg
 
@@ -8,5 +8,7 @@ export_presets.cfg
 *.translation
 
 # Mono-specific ignores
-.mono/
+/.mono/
 data_*/
+
+default_env.tres
