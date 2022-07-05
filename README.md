@@ -1,4 +1,9 @@
-# Godot and SpecFlow sample project
+# Godot and SpecFlow sample project Template
+
+## Creating Repository from template
+
+Use "Use this repository" as a template.
+[Follow this guide for more details](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template)
 
 ## Overview
 
