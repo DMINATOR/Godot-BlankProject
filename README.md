@@ -2,8 +2,10 @@
 
 ## Creating Repository from template
 
-Use "Use this repository" as a template.
+1. Use "Use this repository" as a template.
 [Follow this guide for more details](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template)
+
+2. Open Godot and do "Import Project" it would fill up the missing files for .Net project
 
 ## Overview
 
